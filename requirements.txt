@@ -1,0 +1,14 @@
+django
+Pillow
+requests
+PyMuPDF
+langchain
+langchain-community
+langchain-openai
+python-dotenv 
+waitress==2.1.2
+gunicorn
+pdf2image
+mysqlclient
+django-rest-framework
+

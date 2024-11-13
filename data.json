@@ -1,0 +1,15 @@
+[
+    {
+        "single_trip": {
+            "flight_no": "UK-513",
+            "passenger_name": "SHAAN MALANI",
+            "source_location": "MUMBAI",
+            "departure_date": "03-Apr-2024",
+            "departure_time": "18:55",
+            "arrival_date": "03-Apr-2024",
+            "arrival_time": "20:10",
+            "arrival_location": "NORTH GOA",
+            "airline_name": "Vistara"
+        }
+    }
+]
